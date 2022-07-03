@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "ja"
-title: "Aisu Takida"
+title: "Aisu Takida / Portfolio"
 title_separator: "-"
 name: &name "Aisu Takida"
 description: &description "personal description"
@@ -83,7 +83,7 @@ author:
   bio: "studying in Waseda University (B2) and working at CyberAgent Inc. as Research Assistant"
   location: "Tokyo, Japan"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: # "http://yourfullgooglescholarurl.com"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
@@ -107,7 +107,7 @@ author:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: "mow_icey"
   vine:
   weibo:
   xing:
